@@ -1,0 +1,13 @@
+{
+  "cities": [
+    "Istanbul", "Ankara", "Izmir", "Bursa", "Adana", "Antalya", "Konya", "Gaziantep", "Sanliurfa", "Kayseri",
+    "Diyarbakir", "Mersin", "Eskisehir", "Samsun", "Denizli", "Sivas", "Erzurum", "Malatya", "Trabzon", "Ordu",
+    "New York", "Los Angeles", "Chicago", "Houston", "Phoenix", "Philadelphia", "San Antonio", "San Diego", "Dallas", "San Jose",
+    "London", "Manchester", "Birmingham", "Liverpool", "Leeds", "Glasgow", "Sheffield", "Edinburgh", "Bristol", "Cardiff",
+    "Berlin", "Munich", "Frankfurt", "Hamburg", "Cologne", "Stuttgart", "Dusseldorf", "Dresden", "Leipzig", "Bremen",
+    "Paris", "Lyon", "Marseille", "Toulouse", "Nice", "Nantes", "Strasbourg", "Montpellier", "Bordeaux", "Lille",
+    "Tokyo", "Osaka", "Yokohama", "Nagoya", "Sapporo", "Kobe", "Fukuoka", "Kyoto", "Hiroshima", "Sendai",
+    "Beijing", "Shanghai", "Shenzhen", "Guangzhou", "Chengdu", "Chongqing", "Tianjin", "Wuhan", "Hangzhou", "Nanjing",
+    "Moscow", "Saint Petersburg", "Novosibirsk", "Yekaterinburg", "Kazan", "Nizhny Novgorod", "Chelyabinsk", "Samara", "Omsk", "Rostov-on-Don"
+  ]
+}
