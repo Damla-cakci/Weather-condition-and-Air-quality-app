@@ -212,7 +212,7 @@ def send_weather_email():
         messagebox.showwarning("Missing Info", "Please fill all fields.")
         return
 
-    password = "eglp uliq jsst ryoa"
+    password = ""
 
     location = location_lbl.cget("text")
     temperature = temp_lbl.cget("text")
